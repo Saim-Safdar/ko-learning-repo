@@ -10,6 +10,7 @@
 - 🐾 [Community Repositories](#community-repositories)
 - 🗃️ [Blogs and Articles](#blogs-and-articles)
 - 📹 [Videos](#videos)
+- 📹 [News](#news)
 - 📑 [Slides](#slides)
 - 🎤 [Podcasts](#podcasts) 
 
@@ -22,8 +23,14 @@
 - [Build and Deploying Go Binaries with this Little Kubernetes Gem, ko](https://www.triggermesh.com/blog/go-binaries-kubernetes-ko)
 - [Build and deploy Go applications on Kubernetes](https://golangexample.com/build-and-deploy-go-applications-on-kubernetes/)
 - [ko: fast Kubernetes microservice development in Go](https://medium.com/@mattmoor/ko-fast-kubernetes-microservice-development-in-go-f94a934a7240)
+- [konet is an easy to use and fast container image builder for .NET applications](https://github.com/lippertmarkus/konet)
 
 ## Videos
 
 - [ko - zero-config tool for deploying Go app on k8s - Stanley Nguyen](https://www.youtube.com/watch?v=UrDAZuW3OTs)
 - [ko: zero-config tool for deploying Go app on k8s](https://www.youtube.com/watch?v=TpfKCE9uyCA) 
+- [Building Container Images Inside Kubernetes pod](https://www.youtube.com/watch?v=TzRysWakne8&t=807s)
+
+## News
+
+- [Announcing built-in container support for the .NET SDK](https://devblogs.microsoft.com/dotnet/announcing-builtin-container-support-for-the-dotnet-sdk/)
